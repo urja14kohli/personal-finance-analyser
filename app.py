@@ -7,7 +7,7 @@ import re
 
 # Configure the Streamlit page
 st.set_page_config(
-    page_title="💰 Personal Finance Analyzer",
+    page_title="Personal Finance Analyzer",
     page_icon="💰",
     layout="wide"
 )
